@@ -1,4 +1,4 @@
-Hakaton_SZFO_MFC
+#Hakaton_SZFO_MFC
 
 Проект выполнен командой M4 Team.
 Состав команды
